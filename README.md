@@ -1,8 +1,8 @@
 # 🌟 Greta Combold  
 **Data Scientist | Machine Learning | Cloud-Based Predictions**  
 📍 Argentina, Córdoba | 📧 gretacombold@gmail.com | 📞 +54 351 515 0395  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/tu-perfil)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/tu-usuario)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/greta-combold-b54a69220/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/PerlaMarGreta)  
 
 ---
 
