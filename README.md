@@ -29,9 +29,14 @@ Desarrollé un modelo de **Machine Learning** para predecir el crecimiento econ�
 - **Herramientas:** Python, Pandas, Scikit-learn, Streamlit  
 - **Base de Datos:** BigQuery  
 - **Plataformas:** Google Cloud  
-**Resultado:** Implementación de un **dashboard interactivo** para visualizar predicciones y facilitar decisiones estratégicas.  
+**Resultado:** Implementación de un **dashboard interactivo** para visualizar predicciones y facilitar decisiones estratégicas.
+  ![image](https://github.com/user-attachments/assets/cb0e20e0-a64f-49b0-8a70-451f51f05de5)
+  ![image](https://github.com/user-attachments/assets/2de55852-3b34-4e73-bdc8-13b845c7277f)
 
-➡️ [Ver Repositorio](https://github.com/tu-repo)
+ 
+➡️ [Ver Deploy ](https://demofinal-service-617289872457.us-central1.run.app/)
+
+➡️ [Ver Repositorio](https://github.com/PerlaMarGreta/CoffeandShop_DataNova)
 
 ---
 
@@ -42,8 +47,9 @@ Diseñé y desarrollé un sitio web para mostrar proyectos y habilidades profesi
 - **Tecnologías:** Angular, Bootstrap, CSS, HTML  
 - **Plataforma:** Netlify  
 **Resultado:** Un portafolio optimizado, con diseño moderno y responsivo.  
+➡️ [Ver Deploy ](https://gretacombold.netlify.app/)
 
-➡️ [Ver Repositorio](https://github.com/tu-repo)
+➡️ [Ver Repositorio](https://github.com/PerlaMarGreta/GretaCombold)
 
 ---
 
@@ -69,13 +75,6 @@ Diseñé y desarrollé un sitio web para mostrar proyectos y habilidades profesi
 🔗 GitHub: [github.com/tu-usuario](https://github.com/tu-usuario)
 
 ---
-
-## 🎨 **Recursos Visuales y Estilo**
-- Incluye capturas de pantalla o gifs de tus proyectos destacados, especialmente del dashboard interactivo en Streamlit.  
-- Utiliza insignias como estas para resaltar tecnologías y habilidades:  
-  ![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)  
-  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Proficient-blue?logo=googlecloud)  
-  ![SQL](https://img.shields.io/badge/SQL-Advanced-green?logo=postgresql)  
 
 ---
 
