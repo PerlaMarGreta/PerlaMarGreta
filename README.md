@@ -20,6 +20,17 @@ Soy una **Data Scientist** apasionada por resolver problemas complejos a través
 - **Soft Skills:** Gestión de proyectos, creatividad, resolución de problemas  
 
 ---
+## ¿Qué me hace diferente?
+
+### 🖥️ **Creación de Interfaces Interactivas**
+Experiencia en desarrollar dashboards y aplicaciones interactivas utilizando herramientas como Streamlit. Mis proyectos, como la predicción de crecimiento económico para el sector "Coffee & Brunch", demuestran mi capacidad para transformar datos complejos en interfaces intuitivas que facilitan la toma de decisiones informadas.
+
+### 📈 **Gestión y Coordinación de Proyectos**
+Mi experiencia previa como fundadora y gestora general de Casa PerlaMar, así como mis roles en diseño y coordinación en otras empresas, me han dotado de habilidades excepcionales en gestión de proyectos y coordinación de equipos. Esto me permite liderar iniciativas de Ciencia de Datos de manera eficiente, asegurando que se cumplan los objetivos dentro de los plazos establecidos.
+
+### 🎯 **Orientación a Resultados y Resolución de Problemas**
+Me destaco por mi enfoque orientado a resultados y mi habilidad para resolver problemas de manera creativa. Ya sea optimizando procesos de negocio, diseñando materiales visuales impactantes o desarrollando modelos predictivos, siempre busco soluciones que generen un valor tangible para las organizaciones.
+
 
 ## 💼 **Proyectos Destacados**  
 
