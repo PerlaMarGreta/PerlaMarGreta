@@ -46,7 +46,7 @@ Desarrollé un modelo de **Machine Learning** para predecir el crecimiento econ�
   ![image](https://github.com/user-attachments/assets/2de55852-3b34-4e73-bdc8-13b845c7277f)
 
  
-# ➡️ [Ver Deploy ](https://demofinal-service-617289872457.us-central1.run.app/)
+## ➡️ [Ver Deploy ](https://demofinal-service-617289872457.us-central1.run.app/)
 
 ➡️ [Ver Repositorio](https://github.com/PerlaMarGreta/CoffeandShop_DataNova)
 
@@ -59,7 +59,7 @@ Diseñé y desarrollé un sitio web para mostrar proyectos y habilidades profesi
 - **Tecnologías:** Angular, Bootstrap, CSS, HTML  
 - **Plataforma:** Netlify  
 **Resultado:** Un portafolio optimizado, con diseño moderno y responsivo.  
-➡️ [Ver Deploy ](https://gretacombold.netlify.app/)
+## ➡️ [Ver Deploy ](https://gretacombold.netlify.app/)
 
 ➡️ [Ver Repositorio](https://github.com/PerlaMarGreta/GretaCombold)
 
